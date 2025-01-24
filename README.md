@@ -1,7 +1,7 @@
 # QSharp-Reference
 # Quantum Entanglement in Q#
 
-This repository contains a simple Q# program that demonstrates **quantum entanglement** through the creation of a Bell state. Entanglement is a fascinating phenomenon unique to quantum systems, and this code provides a hands-on introduction to the concept.
+This repository contains a simple Q# program that demonstrates **quantum entanglement** through the creation of a Bell state.
 
 ## What This Code Does
 
